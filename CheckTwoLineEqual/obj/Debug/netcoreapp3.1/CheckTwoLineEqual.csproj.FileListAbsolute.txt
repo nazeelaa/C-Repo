@@ -1,0 +1,14 @@
+E:\vs\CheckTwoLineEqual\bin\Debug\netcoreapp3.1\CheckTwoLineEqual.exe
+E:\vs\CheckTwoLineEqual\bin\Debug\netcoreapp3.1\CheckTwoLineEqual.deps.json
+E:\vs\CheckTwoLineEqual\bin\Debug\netcoreapp3.1\CheckTwoLineEqual.runtimeconfig.json
+E:\vs\CheckTwoLineEqual\bin\Debug\netcoreapp3.1\CheckTwoLineEqual.runtimeconfig.dev.json
+E:\vs\CheckTwoLineEqual\bin\Debug\netcoreapp3.1\CheckTwoLineEqual.dll
+E:\vs\CheckTwoLineEqual\bin\Debug\netcoreapp3.1\CheckTwoLineEqual.pdb
+E:\vs\CheckTwoLineEqual\obj\Debug\netcoreapp3.1\CheckTwoLineEqual.csproj.AssemblyReference.cache
+E:\vs\CheckTwoLineEqual\obj\Debug\netcoreapp3.1\CheckTwoLineEqual.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\CheckTwoLineEqual\obj\Debug\netcoreapp3.1\CheckTwoLineEqual.AssemblyInfoInputs.cache
+E:\vs\CheckTwoLineEqual\obj\Debug\netcoreapp3.1\CheckTwoLineEqual.AssemblyInfo.cs
+E:\vs\CheckTwoLineEqual\obj\Debug\netcoreapp3.1\CheckTwoLineEqual.csproj.CoreCompileInputs.cache
+E:\vs\CheckTwoLineEqual\obj\Debug\netcoreapp3.1\CheckTwoLineEqual.dll
+E:\vs\CheckTwoLineEqual\obj\Debug\netcoreapp3.1\CheckTwoLineEqual.pdb
+E:\vs\CheckTwoLineEqual\obj\Debug\netcoreapp3.1\CheckTwoLineEqual.genruntimeconfig.cache
