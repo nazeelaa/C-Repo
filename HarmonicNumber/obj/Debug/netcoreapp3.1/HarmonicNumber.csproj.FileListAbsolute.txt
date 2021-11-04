@@ -1,0 +1,14 @@
+E:\vs\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.exe
+E:\vs\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.deps.json
+E:\vs\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.json
+E:\vs\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.dev.json
+E:\vs\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.dll
+E:\vs\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.pdb
+E:\vs\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.csproj.AssemblyReference.cache
+E:\vs\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfoInputs.cache
+E:\vs\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfo.cs
+E:\vs\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.csproj.CoreCompileInputs.cache
+E:\vs\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.dll
+E:\vs\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.pdb
+E:\vs\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.genruntimeconfig.cache
