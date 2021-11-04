@@ -1,0 +1,13 @@
+E:\vs\EmpPartTime\bin\Debug\netcoreapp3.1\EmpPartTime.exe
+E:\vs\EmpPartTime\bin\Debug\netcoreapp3.1\EmpPartTime.deps.json
+E:\vs\EmpPartTime\bin\Debug\netcoreapp3.1\EmpPartTime.runtimeconfig.json
+E:\vs\EmpPartTime\bin\Debug\netcoreapp3.1\EmpPartTime.runtimeconfig.dev.json
+E:\vs\EmpPartTime\bin\Debug\netcoreapp3.1\EmpPartTime.dll
+E:\vs\EmpPartTime\bin\Debug\netcoreapp3.1\EmpPartTime.pdb
+E:\vs\EmpPartTime\obj\Debug\netcoreapp3.1\EmpPartTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\EmpPartTime\obj\Debug\netcoreapp3.1\EmpPartTime.AssemblyInfoInputs.cache
+E:\vs\EmpPartTime\obj\Debug\netcoreapp3.1\EmpPartTime.AssemblyInfo.cs
+E:\vs\EmpPartTime\obj\Debug\netcoreapp3.1\EmpPartTime.csproj.CoreCompileInputs.cache
+E:\vs\EmpPartTime\obj\Debug\netcoreapp3.1\EmpPartTime.dll
+E:\vs\EmpPartTime\obj\Debug\netcoreapp3.1\EmpPartTime.pdb
+E:\vs\EmpPartTime\obj\Debug\netcoreapp3.1\EmpPartTime.genruntimeconfig.cache
