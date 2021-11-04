@@ -1,0 +1,13 @@
+E:\vs\CalculatorLength\bin\Debug\netcoreapp3.1\CalculatorLength.exe
+E:\vs\CalculatorLength\bin\Debug\netcoreapp3.1\CalculatorLength.deps.json
+E:\vs\CalculatorLength\bin\Debug\netcoreapp3.1\CalculatorLength.runtimeconfig.json
+E:\vs\CalculatorLength\bin\Debug\netcoreapp3.1\CalculatorLength.runtimeconfig.dev.json
+E:\vs\CalculatorLength\bin\Debug\netcoreapp3.1\CalculatorLength.dll
+E:\vs\CalculatorLength\bin\Debug\netcoreapp3.1\CalculatorLength.pdb
+E:\vs\CalculatorLength\obj\Debug\netcoreapp3.1\CalculatorLength.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\CalculatorLength\obj\Debug\netcoreapp3.1\CalculatorLength.AssemblyInfoInputs.cache
+E:\vs\CalculatorLength\obj\Debug\netcoreapp3.1\CalculatorLength.AssemblyInfo.cs
+E:\vs\CalculatorLength\obj\Debug\netcoreapp3.1\CalculatorLength.csproj.CoreCompileInputs.cache
+E:\vs\CalculatorLength\obj\Debug\netcoreapp3.1\CalculatorLength.dll
+E:\vs\CalculatorLength\obj\Debug\netcoreapp3.1\CalculatorLength.pdb
+E:\vs\CalculatorLength\obj\Debug\netcoreapp3.1\CalculatorLength.genruntimeconfig.cache
