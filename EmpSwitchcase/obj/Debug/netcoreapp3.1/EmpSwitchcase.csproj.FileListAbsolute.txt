@@ -1,0 +1,13 @@
+E:\vs\EmpSwitchcase\bin\Debug\netcoreapp3.1\EmpSwitchcase.exe
+E:\vs\EmpSwitchcase\bin\Debug\netcoreapp3.1\EmpSwitchcase.deps.json
+E:\vs\EmpSwitchcase\bin\Debug\netcoreapp3.1\EmpSwitchcase.runtimeconfig.json
+E:\vs\EmpSwitchcase\bin\Debug\netcoreapp3.1\EmpSwitchcase.runtimeconfig.dev.json
+E:\vs\EmpSwitchcase\bin\Debug\netcoreapp3.1\EmpSwitchcase.dll
+E:\vs\EmpSwitchcase\bin\Debug\netcoreapp3.1\EmpSwitchcase.pdb
+E:\vs\EmpSwitchcase\obj\Debug\netcoreapp3.1\EmpSwitchcase.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\EmpSwitchcase\obj\Debug\netcoreapp3.1\EmpSwitchcase.AssemblyInfoInputs.cache
+E:\vs\EmpSwitchcase\obj\Debug\netcoreapp3.1\EmpSwitchcase.AssemblyInfo.cs
+E:\vs\EmpSwitchcase\obj\Debug\netcoreapp3.1\EmpSwitchcase.csproj.CoreCompileInputs.cache
+E:\vs\EmpSwitchcase\obj\Debug\netcoreapp3.1\EmpSwitchcase.dll
+E:\vs\EmpSwitchcase\obj\Debug\netcoreapp3.1\EmpSwitchcase.pdb
+E:\vs\EmpSwitchcase\obj\Debug\netcoreapp3.1\EmpSwitchcase.genruntimeconfig.cache
