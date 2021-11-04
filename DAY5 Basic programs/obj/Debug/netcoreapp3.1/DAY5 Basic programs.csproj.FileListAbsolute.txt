@@ -1,0 +1,14 @@
+E:\vs\DAY5 Basic programs\obj\Debug\netcoreapp3.1\DAY5 Basic programs.csproj.AssemblyReference.cache
+E:\vs\DAY5 Basic programs\obj\Debug\netcoreapp3.1\DAY5 Basic programs.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\DAY5 Basic programs\obj\Debug\netcoreapp3.1\DAY5 Basic programs.AssemblyInfoInputs.cache
+E:\vs\DAY5 Basic programs\obj\Debug\netcoreapp3.1\DAY5 Basic programs.AssemblyInfo.cs
+E:\vs\DAY5 Basic programs\obj\Debug\netcoreapp3.1\DAY5 Basic programs.csproj.CoreCompileInputs.cache
+E:\vs\DAY5 Basic programs\bin\Debug\netcoreapp3.1\DAY5 Basic programs.exe
+E:\vs\DAY5 Basic programs\bin\Debug\netcoreapp3.1\DAY5 Basic programs.deps.json
+E:\vs\DAY5 Basic programs\bin\Debug\netcoreapp3.1\DAY5 Basic programs.runtimeconfig.json
+E:\vs\DAY5 Basic programs\bin\Debug\netcoreapp3.1\DAY5 Basic programs.runtimeconfig.dev.json
+E:\vs\DAY5 Basic programs\bin\Debug\netcoreapp3.1\DAY5 Basic programs.dll
+E:\vs\DAY5 Basic programs\bin\Debug\netcoreapp3.1\DAY5 Basic programs.pdb
+E:\vs\DAY5 Basic programs\obj\Debug\netcoreapp3.1\DAY5 Basic programs.dll
+E:\vs\DAY5 Basic programs\obj\Debug\netcoreapp3.1\DAY5 Basic programs.pdb
+E:\vs\DAY5 Basic programs\obj\Debug\netcoreapp3.1\DAY5 Basic programs.genruntimeconfig.cache
