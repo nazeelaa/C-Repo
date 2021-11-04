@@ -1,0 +1,13 @@
+E:\vs\EmpWageForMonth\bin\Debug\netcoreapp3.1\EmpWageForMonth.exe
+E:\vs\EmpWageForMonth\bin\Debug\netcoreapp3.1\EmpWageForMonth.deps.json
+E:\vs\EmpWageForMonth\bin\Debug\netcoreapp3.1\EmpWageForMonth.runtimeconfig.json
+E:\vs\EmpWageForMonth\bin\Debug\netcoreapp3.1\EmpWageForMonth.runtimeconfig.dev.json
+E:\vs\EmpWageForMonth\bin\Debug\netcoreapp3.1\EmpWageForMonth.dll
+E:\vs\EmpWageForMonth\bin\Debug\netcoreapp3.1\EmpWageForMonth.pdb
+E:\vs\EmpWageForMonth\obj\Debug\netcoreapp3.1\EmpWageForMonth.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\EmpWageForMonth\obj\Debug\netcoreapp3.1\EmpWageForMonth.AssemblyInfoInputs.cache
+E:\vs\EmpWageForMonth\obj\Debug\netcoreapp3.1\EmpWageForMonth.AssemblyInfo.cs
+E:\vs\EmpWageForMonth\obj\Debug\netcoreapp3.1\EmpWageForMonth.csproj.CoreCompileInputs.cache
+E:\vs\EmpWageForMonth\obj\Debug\netcoreapp3.1\EmpWageForMonth.dll
+E:\vs\EmpWageForMonth\obj\Debug\netcoreapp3.1\EmpWageForMonth.pdb
+E:\vs\EmpWageForMonth\obj\Debug\netcoreapp3.1\EmpWageForMonth.genruntimeconfig.cache
