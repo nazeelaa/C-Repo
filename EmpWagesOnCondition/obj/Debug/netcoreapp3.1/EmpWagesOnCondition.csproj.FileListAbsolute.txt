@@ -1,0 +1,14 @@
+E:\vs\EmpWagesOnCondition\bin\Debug\netcoreapp3.1\EmpWagesOnCondition.exe
+E:\vs\EmpWagesOnCondition\bin\Debug\netcoreapp3.1\EmpWagesOnCondition.deps.json
+E:\vs\EmpWagesOnCondition\bin\Debug\netcoreapp3.1\EmpWagesOnCondition.runtimeconfig.json
+E:\vs\EmpWagesOnCondition\bin\Debug\netcoreapp3.1\EmpWagesOnCondition.runtimeconfig.dev.json
+E:\vs\EmpWagesOnCondition\bin\Debug\netcoreapp3.1\EmpWagesOnCondition.dll
+E:\vs\EmpWagesOnCondition\bin\Debug\netcoreapp3.1\EmpWagesOnCondition.pdb
+E:\vs\EmpWagesOnCondition\obj\Debug\netcoreapp3.1\EmpWagesOnCondition.csproj.AssemblyReference.cache
+E:\vs\EmpWagesOnCondition\obj\Debug\netcoreapp3.1\EmpWagesOnCondition.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\EmpWagesOnCondition\obj\Debug\netcoreapp3.1\EmpWagesOnCondition.AssemblyInfoInputs.cache
+E:\vs\EmpWagesOnCondition\obj\Debug\netcoreapp3.1\EmpWagesOnCondition.AssemblyInfo.cs
+E:\vs\EmpWagesOnCondition\obj\Debug\netcoreapp3.1\EmpWagesOnCondition.csproj.CoreCompileInputs.cache
+E:\vs\EmpWagesOnCondition\obj\Debug\netcoreapp3.1\EmpWagesOnCondition.dll
+E:\vs\EmpWagesOnCondition\obj\Debug\netcoreapp3.1\EmpWagesOnCondition.pdb
+E:\vs\EmpWagesOnCondition\obj\Debug\netcoreapp3.1\EmpWagesOnCondition.genruntimeconfig.cache
