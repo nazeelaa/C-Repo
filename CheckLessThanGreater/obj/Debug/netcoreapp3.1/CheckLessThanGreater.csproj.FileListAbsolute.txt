@@ -1,0 +1,13 @@
+E:\vs\CheckLessThanGreater\bin\Debug\netcoreapp3.1\CheckLessThanGreater.exe
+E:\vs\CheckLessThanGreater\bin\Debug\netcoreapp3.1\CheckLessThanGreater.deps.json
+E:\vs\CheckLessThanGreater\bin\Debug\netcoreapp3.1\CheckLessThanGreater.runtimeconfig.json
+E:\vs\CheckLessThanGreater\bin\Debug\netcoreapp3.1\CheckLessThanGreater.runtimeconfig.dev.json
+E:\vs\CheckLessThanGreater\bin\Debug\netcoreapp3.1\CheckLessThanGreater.dll
+E:\vs\CheckLessThanGreater\bin\Debug\netcoreapp3.1\CheckLessThanGreater.pdb
+E:\vs\CheckLessThanGreater\obj\Debug\netcoreapp3.1\CheckLessThanGreater.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\CheckLessThanGreater\obj\Debug\netcoreapp3.1\CheckLessThanGreater.AssemblyInfoInputs.cache
+E:\vs\CheckLessThanGreater\obj\Debug\netcoreapp3.1\CheckLessThanGreater.AssemblyInfo.cs
+E:\vs\CheckLessThanGreater\obj\Debug\netcoreapp3.1\CheckLessThanGreater.csproj.CoreCompileInputs.cache
+E:\vs\CheckLessThanGreater\obj\Debug\netcoreapp3.1\CheckLessThanGreater.dll
+E:\vs\CheckLessThanGreater\obj\Debug\netcoreapp3.1\CheckLessThanGreater.pdb
+E:\vs\CheckLessThanGreater\obj\Debug\netcoreapp3.1\CheckLessThanGreater.genruntimeconfig.cache
