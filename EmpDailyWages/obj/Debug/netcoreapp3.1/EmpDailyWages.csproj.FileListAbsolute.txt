@@ -1,0 +1,13 @@
+E:\vs\EmpDailyWages\bin\Debug\netcoreapp3.1\EmpDailyWages.exe
+E:\vs\EmpDailyWages\bin\Debug\netcoreapp3.1\EmpDailyWages.deps.json
+E:\vs\EmpDailyWages\bin\Debug\netcoreapp3.1\EmpDailyWages.runtimeconfig.json
+E:\vs\EmpDailyWages\bin\Debug\netcoreapp3.1\EmpDailyWages.runtimeconfig.dev.json
+E:\vs\EmpDailyWages\bin\Debug\netcoreapp3.1\EmpDailyWages.dll
+E:\vs\EmpDailyWages\bin\Debug\netcoreapp3.1\EmpDailyWages.pdb
+E:\vs\EmpDailyWages\obj\Debug\netcoreapp3.1\EmpDailyWages.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\EmpDailyWages\obj\Debug\netcoreapp3.1\EmpDailyWages.AssemblyInfoInputs.cache
+E:\vs\EmpDailyWages\obj\Debug\netcoreapp3.1\EmpDailyWages.AssemblyInfo.cs
+E:\vs\EmpDailyWages\obj\Debug\netcoreapp3.1\EmpDailyWages.csproj.CoreCompileInputs.cache
+E:\vs\EmpDailyWages\obj\Debug\netcoreapp3.1\EmpDailyWages.dll
+E:\vs\EmpDailyWages\obj\Debug\netcoreapp3.1\EmpDailyWages.pdb
+E:\vs\EmpDailyWages\obj\Debug\netcoreapp3.1\EmpDailyWages.genruntimeconfig.cache
