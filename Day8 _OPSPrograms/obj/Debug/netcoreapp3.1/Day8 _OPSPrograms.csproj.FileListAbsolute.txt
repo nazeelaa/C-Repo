@@ -1,0 +1,14 @@
+E:\vs\Day8 _OPSPrograms\obj\Debug\netcoreapp3.1\Day8 _OPSPrograms.csproj.AssemblyReference.cache
+E:\vs\Day8 _OPSPrograms\obj\Debug\netcoreapp3.1\Day8 _OPSPrograms.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Day8 _OPSPrograms\obj\Debug\netcoreapp3.1\Day8 _OPSPrograms.AssemblyInfoInputs.cache
+E:\vs\Day8 _OPSPrograms\obj\Debug\netcoreapp3.1\Day8 _OPSPrograms.AssemblyInfo.cs
+E:\vs\Day8 _OPSPrograms\obj\Debug\netcoreapp3.1\Day8 _OPSPrograms.csproj.CoreCompileInputs.cache
+E:\vs\Day8 _OPSPrograms\bin\Debug\netcoreapp3.1\Day8 _OPSPrograms.exe
+E:\vs\Day8 _OPSPrograms\bin\Debug\netcoreapp3.1\Day8 _OPSPrograms.deps.json
+E:\vs\Day8 _OPSPrograms\bin\Debug\netcoreapp3.1\Day8 _OPSPrograms.runtimeconfig.json
+E:\vs\Day8 _OPSPrograms\bin\Debug\netcoreapp3.1\Day8 _OPSPrograms.runtimeconfig.dev.json
+E:\vs\Day8 _OPSPrograms\bin\Debug\netcoreapp3.1\Day8 _OPSPrograms.dll
+E:\vs\Day8 _OPSPrograms\bin\Debug\netcoreapp3.1\Day8 _OPSPrograms.pdb
+E:\vs\Day8 _OPSPrograms\obj\Debug\netcoreapp3.1\Day8 _OPSPrograms.dll
+E:\vs\Day8 _OPSPrograms\obj\Debug\netcoreapp3.1\Day8 _OPSPrograms.pdb
+E:\vs\Day8 _OPSPrograms\obj\Debug\netcoreapp3.1\Day8 _OPSPrograms.genruntimeconfig.cache
