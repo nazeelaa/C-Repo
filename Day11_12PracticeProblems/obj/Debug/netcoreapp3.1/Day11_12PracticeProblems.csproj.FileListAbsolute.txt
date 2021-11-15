@@ -1,0 +1,16 @@
+E:\vs\Day11_12PracticeProblems\bin\Debug\netcoreapp3.1\Day11_12PracticeProblems.exe
+E:\vs\Day11_12PracticeProblems\bin\Debug\netcoreapp3.1\Day11_12PracticeProblems.deps.json
+E:\vs\Day11_12PracticeProblems\bin\Debug\netcoreapp3.1\Day11_12PracticeProblems.runtimeconfig.json
+E:\vs\Day11_12PracticeProblems\bin\Debug\netcoreapp3.1\Day11_12PracticeProblems.runtimeconfig.dev.json
+E:\vs\Day11_12PracticeProblems\bin\Debug\netcoreapp3.1\Day11_12PracticeProblems.dll
+E:\vs\Day11_12PracticeProblems\bin\Debug\netcoreapp3.1\Day11_12PracticeProblems.pdb
+E:\vs\Day11_12PracticeProblems\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\vs\Day11_12PracticeProblems\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\vs\Day11_12PracticeProblems\obj\Debug\netcoreapp3.1\Day11_12PracticeProblems.csproj.AssemblyReference.cache
+E:\vs\Day11_12PracticeProblems\obj\Debug\netcoreapp3.1\Day11_12PracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Day11_12PracticeProblems\obj\Debug\netcoreapp3.1\Day11_12PracticeProblems.AssemblyInfoInputs.cache
+E:\vs\Day11_12PracticeProblems\obj\Debug\netcoreapp3.1\Day11_12PracticeProblems.AssemblyInfo.cs
+E:\vs\Day11_12PracticeProblems\obj\Debug\netcoreapp3.1\Day11_12PracticeProblems.csproj.CoreCompileInputs.cache
+E:\vs\Day11_12PracticeProblems\obj\Debug\netcoreapp3.1\Day11_12PracticeProblems.dll
+E:\vs\Day11_12PracticeProblems\obj\Debug\netcoreapp3.1\Day11_12PracticeProblems.pdb
+E:\vs\Day11_12PracticeProblems\obj\Debug\netcoreapp3.1\Day11_12PracticeProblems.genruntimeconfig.cache
