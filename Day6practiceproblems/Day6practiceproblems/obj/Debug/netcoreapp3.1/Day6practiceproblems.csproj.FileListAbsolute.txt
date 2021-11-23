@@ -1,0 +1,14 @@
+F:\vs\Day6practiceproblems\Day6practiceproblems\bin\Debug\netcoreapp3.1\Day6practiceproblems.exe
+F:\vs\Day6practiceproblems\Day6practiceproblems\bin\Debug\netcoreapp3.1\Day6practiceproblems.deps.json
+F:\vs\Day6practiceproblems\Day6practiceproblems\bin\Debug\netcoreapp3.1\Day6practiceproblems.runtimeconfig.json
+F:\vs\Day6practiceproblems\Day6practiceproblems\bin\Debug\netcoreapp3.1\Day6practiceproblems.runtimeconfig.dev.json
+F:\vs\Day6practiceproblems\Day6practiceproblems\bin\Debug\netcoreapp3.1\Day6practiceproblems.dll
+F:\vs\Day6practiceproblems\Day6practiceproblems\bin\Debug\netcoreapp3.1\Day6practiceproblems.pdb
+F:\vs\Day6practiceproblems\Day6practiceproblems\obj\Debug\netcoreapp3.1\Day6practiceproblems.csproj.AssemblyReference.cache
+F:\vs\Day6practiceproblems\Day6practiceproblems\obj\Debug\netcoreapp3.1\Day6practiceproblems.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\Day6practiceproblems\Day6practiceproblems\obj\Debug\netcoreapp3.1\Day6practiceproblems.AssemblyInfoInputs.cache
+F:\vs\Day6practiceproblems\Day6practiceproblems\obj\Debug\netcoreapp3.1\Day6practiceproblems.AssemblyInfo.cs
+F:\vs\Day6practiceproblems\Day6practiceproblems\obj\Debug\netcoreapp3.1\Day6practiceproblems.csproj.CoreCompileInputs.cache
+F:\vs\Day6practiceproblems\Day6practiceproblems\obj\Debug\netcoreapp3.1\Day6practiceproblems.dll
+F:\vs\Day6practiceproblems\Day6practiceproblems\obj\Debug\netcoreapp3.1\Day6practiceproblems.pdb
+F:\vs\Day6practiceproblems\Day6practiceproblems\obj\Debug\netcoreapp3.1\Day6practiceproblems.genruntimeconfig.cache

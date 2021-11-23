@@ -1,0 +1,13 @@
+F:\vs\MaxInteger\MaxInteger\bin\Debug\netcoreapp3.1\MaxInteger.exe
+F:\vs\MaxInteger\MaxInteger\bin\Debug\netcoreapp3.1\MaxInteger.deps.json
+F:\vs\MaxInteger\MaxInteger\bin\Debug\netcoreapp3.1\MaxInteger.runtimeconfig.json
+F:\vs\MaxInteger\MaxInteger\bin\Debug\netcoreapp3.1\MaxInteger.runtimeconfig.dev.json
+F:\vs\MaxInteger\MaxInteger\bin\Debug\netcoreapp3.1\MaxInteger.dll
+F:\vs\MaxInteger\MaxInteger\bin\Debug\netcoreapp3.1\MaxInteger.pdb
+F:\vs\MaxInteger\MaxInteger\obj\Debug\netcoreapp3.1\MaxInteger.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\MaxInteger\MaxInteger\obj\Debug\netcoreapp3.1\MaxInteger.AssemblyInfoInputs.cache
+F:\vs\MaxInteger\MaxInteger\obj\Debug\netcoreapp3.1\MaxInteger.AssemblyInfo.cs
+F:\vs\MaxInteger\MaxInteger\obj\Debug\netcoreapp3.1\MaxInteger.csproj.CoreCompileInputs.cache
+F:\vs\MaxInteger\MaxInteger\obj\Debug\netcoreapp3.1\MaxInteger.dll
+F:\vs\MaxInteger\MaxInteger\obj\Debug\netcoreapp3.1\MaxInteger.pdb
+F:\vs\MaxInteger\MaxInteger\obj\Debug\netcoreapp3.1\MaxInteger.genruntimeconfig.cache

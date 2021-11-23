@@ -1,0 +1,14 @@
+F:\vs\ListDemo\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.exe
+F:\vs\ListDemo\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.deps.json
+F:\vs\ListDemo\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.runtimeconfig.json
+F:\vs\ListDemo\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.runtimeconfig.dev.json
+F:\vs\ListDemo\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.dll
+F:\vs\ListDemo\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.pdb
+F:\vs\ListDemo\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.csproj.AssemblyReference.cache
+F:\vs\ListDemo\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\ListDemo\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.AssemblyInfoInputs.cache
+F:\vs\ListDemo\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.AssemblyInfo.cs
+F:\vs\ListDemo\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.csproj.CoreCompileInputs.cache
+F:\vs\ListDemo\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.dll
+F:\vs\ListDemo\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.pdb
+F:\vs\ListDemo\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\vs\EventsDemo\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.csproj.AssemblyReference.cache
+F:\vs\EventsDemo\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\EventsDemo\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.AssemblyInfoInputs.cache
+F:\vs\EventsDemo\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.AssemblyInfo.cs
+F:\vs\EventsDemo\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.csproj.CoreCompileInputs.cache
+F:\vs\EventsDemo\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.exe
+F:\vs\EventsDemo\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.deps.json
+F:\vs\EventsDemo\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.runtimeconfig.json
+F:\vs\EventsDemo\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.runtimeconfig.dev.json
+F:\vs\EventsDemo\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.dll
+F:\vs\EventsDemo\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.pdb
+F:\vs\EventsDemo\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.dll
+F:\vs\EventsDemo\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.pdb
+F:\vs\EventsDemo\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.genruntimeconfig.cache

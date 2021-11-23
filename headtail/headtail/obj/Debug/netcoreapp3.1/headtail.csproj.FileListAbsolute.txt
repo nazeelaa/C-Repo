@@ -1,0 +1,14 @@
+F:\vs\headtail\headtail\obj\Debug\netcoreapp3.1\headtail.csproj.AssemblyReference.cache
+F:\vs\headtail\headtail\obj\Debug\netcoreapp3.1\headtail.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\headtail\headtail\obj\Debug\netcoreapp3.1\headtail.AssemblyInfoInputs.cache
+F:\vs\headtail\headtail\obj\Debug\netcoreapp3.1\headtail.AssemblyInfo.cs
+F:\vs\headtail\headtail\obj\Debug\netcoreapp3.1\headtail.csproj.CoreCompileInputs.cache
+F:\vs\headtail\headtail\bin\Debug\netcoreapp3.1\headtail.exe
+F:\vs\headtail\headtail\bin\Debug\netcoreapp3.1\headtail.deps.json
+F:\vs\headtail\headtail\bin\Debug\netcoreapp3.1\headtail.runtimeconfig.json
+F:\vs\headtail\headtail\bin\Debug\netcoreapp3.1\headtail.runtimeconfig.dev.json
+F:\vs\headtail\headtail\bin\Debug\netcoreapp3.1\headtail.dll
+F:\vs\headtail\headtail\bin\Debug\netcoreapp3.1\headtail.pdb
+F:\vs\headtail\headtail\obj\Debug\netcoreapp3.1\headtail.dll
+F:\vs\headtail\headtail\obj\Debug\netcoreapp3.1\headtail.pdb
+F:\vs\headtail\headtail\obj\Debug\netcoreapp3.1\headtail.genruntimeconfig.cache

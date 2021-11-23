@@ -1,0 +1,14 @@
+F:\vs\EmpWages\EmpWages\bin\Debug\netcoreapp3.1\EmpWages.exe
+F:\vs\EmpWages\EmpWages\bin\Debug\netcoreapp3.1\EmpWages.deps.json
+F:\vs\EmpWages\EmpWages\bin\Debug\netcoreapp3.1\EmpWages.runtimeconfig.json
+F:\vs\EmpWages\EmpWages\bin\Debug\netcoreapp3.1\EmpWages.runtimeconfig.dev.json
+F:\vs\EmpWages\EmpWages\bin\Debug\netcoreapp3.1\EmpWages.dll
+F:\vs\EmpWages\EmpWages\bin\Debug\netcoreapp3.1\EmpWages.pdb
+F:\vs\EmpWages\EmpWages\obj\Debug\netcoreapp3.1\EmpWages.csproj.AssemblyReference.cache
+F:\vs\EmpWages\EmpWages\obj\Debug\netcoreapp3.1\EmpWages.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\EmpWages\EmpWages\obj\Debug\netcoreapp3.1\EmpWages.AssemblyInfoInputs.cache
+F:\vs\EmpWages\EmpWages\obj\Debug\netcoreapp3.1\EmpWages.AssemblyInfo.cs
+F:\vs\EmpWages\EmpWages\obj\Debug\netcoreapp3.1\EmpWages.csproj.CoreCompileInputs.cache
+F:\vs\EmpWages\EmpWages\obj\Debug\netcoreapp3.1\EmpWages.dll
+F:\vs\EmpWages\EmpWages\obj\Debug\netcoreapp3.1\EmpWages.pdb
+F:\vs\EmpWages\EmpWages\obj\Debug\netcoreapp3.1\EmpWages.genruntimeconfig.cache

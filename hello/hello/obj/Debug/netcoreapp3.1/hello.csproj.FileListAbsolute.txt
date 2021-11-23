@@ -1,0 +1,13 @@
+F:\vs\hello\hello\bin\Debug\netcoreapp3.1\hello.exe
+F:\vs\hello\hello\bin\Debug\netcoreapp3.1\hello.deps.json
+F:\vs\hello\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.json
+F:\vs\hello\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.dev.json
+F:\vs\hello\hello\bin\Debug\netcoreapp3.1\hello.dll
+F:\vs\hello\hello\bin\Debug\netcoreapp3.1\hello.pdb
+F:\vs\hello\hello\obj\Debug\netcoreapp3.1\hello.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\hello\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfoInputs.cache
+F:\vs\hello\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfo.cs
+F:\vs\hello\hello\obj\Debug\netcoreapp3.1\hello.csproj.CoreCompileInputs.cache
+F:\vs\hello\hello\obj\Debug\netcoreapp3.1\hello.dll
+F:\vs\hello\hello\obj\Debug\netcoreapp3.1\hello.pdb
+F:\vs\hello\hello\obj\Debug\netcoreapp3.1\hello.genruntimeconfig.cache

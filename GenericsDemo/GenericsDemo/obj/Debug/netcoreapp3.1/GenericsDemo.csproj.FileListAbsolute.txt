@@ -1,0 +1,14 @@
+F:\vs\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.AssemblyReference.cache
+F:\vs\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfoInputs.cache
+F:\vs\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfo.cs
+F:\vs\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.CoreCompileInputs.cache
+F:\vs\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.exe
+F:\vs\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.deps.json
+F:\vs\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.json
+F:\vs\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.dev.json
+F:\vs\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.dll
+F:\vs\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.pdb
+F:\vs\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.dll
+F:\vs\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.pdb
+F:\vs\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\vs\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.exe
+F:\vs\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.deps.json
+F:\vs\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.runtimeconfig.json
+F:\vs\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.runtimeconfig.dev.json
+F:\vs\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.dll
+F:\vs\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\InventoryDataManagement.pdb
+F:\vs\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\vs\InventoryDataManagement\InventoryDataManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\vs\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.csproj.AssemblyReference.cache
+F:\vs\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.AssemblyInfoInputs.cache
+F:\vs\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.AssemblyInfo.cs
+F:\vs\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.csproj.CoreCompileInputs.cache
+F:\vs\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.dll
+F:\vs\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.pdb
+F:\vs\InventoryDataManagement\InventoryDataManagement\obj\Debug\netcoreapp3.1\InventoryDataManagement.genruntimeconfig.cache

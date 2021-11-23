@@ -1,0 +1,14 @@
+F:\vs\ReverseNum\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.exe
+F:\vs\ReverseNum\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.deps.json
+F:\vs\ReverseNum\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.runtimeconfig.json
+F:\vs\ReverseNum\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.runtimeconfig.dev.json
+F:\vs\ReverseNum\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.dll
+F:\vs\ReverseNum\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.pdb
+F:\vs\ReverseNum\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.csproj.AssemblyReference.cache
+F:\vs\ReverseNum\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\ReverseNum\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.AssemblyInfoInputs.cache
+F:\vs\ReverseNum\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.AssemblyInfo.cs
+F:\vs\ReverseNum\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.csproj.CoreCompileInputs.cache
+F:\vs\ReverseNum\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.dll
+F:\vs\ReverseNum\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.pdb
+F:\vs\ReverseNum\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\vs\LineCompression\LineCompression\bin\Debug\netcoreapp3.1\LineCompression.exe
+F:\vs\LineCompression\LineCompression\bin\Debug\netcoreapp3.1\LineCompression.deps.json
+F:\vs\LineCompression\LineCompression\bin\Debug\netcoreapp3.1\LineCompression.runtimeconfig.json
+F:\vs\LineCompression\LineCompression\bin\Debug\netcoreapp3.1\LineCompression.runtimeconfig.dev.json
+F:\vs\LineCompression\LineCompression\bin\Debug\netcoreapp3.1\LineCompression.dll
+F:\vs\LineCompression\LineCompression\bin\Debug\netcoreapp3.1\LineCompression.pdb
+F:\vs\LineCompression\LineCompression\obj\Debug\netcoreapp3.1\LineCompression.csproj.AssemblyReference.cache
+F:\vs\LineCompression\LineCompression\obj\Debug\netcoreapp3.1\LineCompression.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\LineCompression\LineCompression\obj\Debug\netcoreapp3.1\LineCompression.AssemblyInfoInputs.cache
+F:\vs\LineCompression\LineCompression\obj\Debug\netcoreapp3.1\LineCompression.AssemblyInfo.cs
+F:\vs\LineCompression\LineCompression\obj\Debug\netcoreapp3.1\LineCompression.csproj.CoreCompileInputs.cache
+F:\vs\LineCompression\LineCompression\obj\Debug\netcoreapp3.1\LineCompression.dll
+F:\vs\LineCompression\LineCompression\obj\Debug\netcoreapp3.1\LineCompression.pdb
+F:\vs\LineCompression\LineCompression\obj\Debug\netcoreapp3.1\LineCompression.genruntimeconfig.cache

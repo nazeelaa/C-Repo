@@ -1,0 +1,14 @@
+F:\vs\DelegateProgram\DelegateProgram\bin\Debug\netcoreapp3.1\DelegateProgram.exe
+F:\vs\DelegateProgram\DelegateProgram\bin\Debug\netcoreapp3.1\DelegateProgram.deps.json
+F:\vs\DelegateProgram\DelegateProgram\bin\Debug\netcoreapp3.1\DelegateProgram.runtimeconfig.json
+F:\vs\DelegateProgram\DelegateProgram\bin\Debug\netcoreapp3.1\DelegateProgram.runtimeconfig.dev.json
+F:\vs\DelegateProgram\DelegateProgram\bin\Debug\netcoreapp3.1\DelegateProgram.dll
+F:\vs\DelegateProgram\DelegateProgram\bin\Debug\netcoreapp3.1\DelegateProgram.pdb
+F:\vs\DelegateProgram\DelegateProgram\obj\Debug\netcoreapp3.1\DelegateProgram.csproj.AssemblyReference.cache
+F:\vs\DelegateProgram\DelegateProgram\obj\Debug\netcoreapp3.1\DelegateProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\DelegateProgram\DelegateProgram\obj\Debug\netcoreapp3.1\DelegateProgram.AssemblyInfoInputs.cache
+F:\vs\DelegateProgram\DelegateProgram\obj\Debug\netcoreapp3.1\DelegateProgram.AssemblyInfo.cs
+F:\vs\DelegateProgram\DelegateProgram\obj\Debug\netcoreapp3.1\DelegateProgram.csproj.CoreCompileInputs.cache
+F:\vs\DelegateProgram\DelegateProgram\obj\Debug\netcoreapp3.1\DelegateProgram.dll
+F:\vs\DelegateProgram\DelegateProgram\obj\Debug\netcoreapp3.1\DelegateProgram.pdb
+F:\vs\DelegateProgram\DelegateProgram\obj\Debug\netcoreapp3.1\DelegateProgram.genruntimeconfig.cache

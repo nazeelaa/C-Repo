@@ -1,0 +1,13 @@
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\bin\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.exe
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\bin\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.deps.json
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\bin\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.runtimeconfig.json
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\bin\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.runtimeconfig.dev.json
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\bin\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.dll
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\bin\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.pdb
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\obj\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\obj\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.AssemblyInfoInputs.cache
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\obj\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.AssemblyInfo.cs
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\obj\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.csproj.CoreCompileInputs.cache
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\obj\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.dll
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\obj\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.pdb
+F:\vs\Day13PracticeProgram_UC5\Day13PracticeProgram_UC5\obj\Debug\netcoreapp3.1\Day13PracticeProgram_UC5.genruntimeconfig.cache

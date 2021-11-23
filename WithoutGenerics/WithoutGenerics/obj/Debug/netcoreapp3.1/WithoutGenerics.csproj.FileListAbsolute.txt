@@ -1,0 +1,13 @@
+F:\vs\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.exe
+F:\vs\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.deps.json
+F:\vs\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.runtimeconfig.json
+F:\vs\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.runtimeconfig.dev.json
+F:\vs\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.dll
+F:\vs\WithoutGenerics\WithoutGenerics\bin\Debug\netcoreapp3.1\WithoutGenerics.pdb
+F:\vs\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.AssemblyInfoInputs.cache
+F:\vs\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.AssemblyInfo.cs
+F:\vs\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.csproj.CoreCompileInputs.cache
+F:\vs\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.dll
+F:\vs\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.pdb
+F:\vs\WithoutGenerics\WithoutGenerics\obj\Debug\netcoreapp3.1\WithoutGenerics.genruntimeconfig.cache
